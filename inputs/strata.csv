@@ -1,0 +1,17 @@
+stratum,input_type,source,description,pool_size,inputs
+N1,names,scientific name,NCBI scientific names that have no unique-name disambiguator (control),3009763,200
+N2,names,scientific name,"bare scientific names that NCBI also disambiguates with a unique name, sent without the disambiguator",1942,200
+N3,names,scientific name,"NCBI unique-name strings with the disambiguator, e.g. 'Agathis montana (in: seed plants)'",11178,150
+N4,names,synonym,names of class 'synonym',416105,200
+N5,names,equivalent name,names of class 'equivalent name',67559,150
+N6,names,authority,names of class 'authority' (name with author and year),1150771,150
+N7,names,genbank common name,names of class 'genbank common name',32217,150
+N8,names,common name,names of class 'common name' (not GenBank common names),13651,150
+N9,names,includes,names of class 'includes',102878,150
+N10,names,in-part,names of class 'in-part',213,150
+N11,names,acronym,names of class 'acronym',2214,100
+N12,names,type material,names of class 'type material',411327,100
+I1,taxids,nodes.dmp,current taxids (control),,200
+I2,taxids,merged.dmp,merged (old) taxids,,200
+I3,taxids,delnodes.dmp,deleted taxids,,200
+R,names,GBIF verbatim,verbatim dwc:scientificName strings from randomly drawn GBIF occurrence records,,1000

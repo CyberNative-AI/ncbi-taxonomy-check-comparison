@@ -1,0 +1,200 @@
+Dillenia andamanica
+Graeffea sp. GRA2
+Monodontomerus minor
+Tsengia sp. 2Tris
+Mycobacterium tuberculosis UT0026
+Megastigma chiangii
+Norovirus Hu/GII.2/CGMH44/2011/TW
+uncultured bacterium BD_contig02163
+Influenza B virus (B/Nebraska/05/2016)
+Palachia
+Duguetia glabriuscula
+Microsternus sp. UPOL 002242
+Bulbophyllum afzelii
+Asura coccinocosma
+Myopella angustifrons
+[Candida] sp. D2rhO622
+Herpetomonas cf. roitmani
+Torreyochloa pallida
+Influenza A virus (A/chicken/Shanghai/S2418/2014(H9))
+Hylaea leptoloba
+Campoletis sp. BOLD:AAH1523
+Burkholderia sp. 'Mississippi DCAA10'
+Lentinellus subargillaceus
+Ruegeria sp. BC13-4
+Rhodacaridae sp. BIOUG20067-B02
+Ectopseudomonas oleovorans MTCC 5210
+unclassified Trichapion
+Atrachya
+Ceramonematina
+beta proteobacterium BAC95P
+Alocasia perakensis
+Halobacillus sp. CUA-641
+Streptosporangium sp. NPDC050284
+Eschenbachia
+Temnothorax sp. CN04
+Blautia sp. DFI.1.216
+Rhinocladiella sp. L214
+Escherichia coli 6-319-05_S3_C1
+Pseudodaphnella
+Psyra similaria
+Eusunoxa
+Siphonobrachia
+Odontolabis ludekingi ludekingi
+Trigonostemon verticillatus var. verticillatus
+Actinobacteria bacterium casp-actino10
+Catoryctis sp. ANIC7
+Dicyema dolichocephalum
+Menopon
+anaerobic bacterium A116
+Cudonia mongolica
+Carolus
+Apallates sp. BIOUG24293-D03
+Diplazium doederleinii
+Staphylinidae sp. INDOBIOSYS-CCDB30413-H06
+Helotiales sp. FT2G58
+Wolbachia endosymbiont of Lema diversa
+Ilex cymosa
+Endophyllum elaeagni-latifoliae
+Belgrandia marginata
+Protodrilus submersus
+Peteniodendron virescens
+Brachionidae sp. SHYT150702b
+Ephydridae sp. BIOUG15392-E09
+Bradyrhizobium sp. ZAHD3
+Spongia sp. QM G333324
+Enterococcus phage AKEP_040
+Acanthothecis
+Desulfovibrio furfuralis
+Sarocladium sp. ADH17
+Verhoeffiella sp. CA281
+Orthocladiinae sp. BIOUG20642-B07
+Cryptinae sp. BBHYF085-10
+Cubus sp. validusDHJ01
+Cephalobus sp. 1 HMM2018
+Siluriformes sp. BOLD:AAJ1105
+Acaulona sp. CR 133
+Letestuella tisserantii
+Ornithinicoccus sp.
+Platystethynium sp. BIOUG08421-F01
+Trigonoscuta sp. MVD127
+Micropeplus sp. BOLD:AAN4683
+Jaborosa caulescens
+Norovirus Hu/GII.4/PR5439/2010/ITA
+Eugenia costata
+Andrena platyparia
+Friesodielsia korthalsiana
+Aerococcus sp. H02_16
+Cecidomyiidae sp. BIOUG20764-E12
+uncultured eubacterium CHA3-437
+Lepidoptera sp. BOLD:AAD4496
+Cockroach orthomyxo-like virus 3
+Orthocladiinae sp. BIOUG29186-C10
+Paramoebidium cf. grande ID-164-G2
+Mucuna platyphylla
+Aspergillus sp. BAB-5682
+Dichromodes sp. ANIC63
+Waltheria acapulcensis
+Parabuthus liosoma
+Stenotrophomonas sp. St-RSmG
+Dryopteris melanochlaena
+Argentinidae
+Epinotia indecorana
+Methylobacterium sp. DJM1C1
+Comesomatidae sp. Cr21b
+Streptococcus phage vB_SthS_VA460
+Metastelma schlechteri
+Smittia sp. BIOUG05528-C01
+unclassified Tadorna
+Orthocladiinae sp. BIOUG25466-B01
+Limoniidae sp. BIOUG22283-E07
+Influenza A virus (A/Habana/640/2012(H1N1))
+Aprostocetus sp. BIOUG07644-F09
+Veigaiidae sp. BIOUG23550-F05
+Petunia chlorotic mottle virus
+Pisidium sp. TS-2022_L17
+Ceratopogonidae sp. BIOUG22283-E09
+Pseudomonas sp. WB4418
+Espeletia atropurpurea
+Hedyotis loganioides
+Heptapleurum obtusifolium
+Haplotaxida sp. BOLD:AAM8944
+Eragrostis egregia
+Helochares cf. oculatus SLE1197
+Cecidomyiidae sp. BIOUG20872-G08
+Cryptosporidium sp. 'muskrat 603'
+Callianthe megapotamica
+Prepalla sp. ANIC8
+Ichneumonidae sp. INDOBIOSYS-CCDB24598-F03
+crenarchaeote SCGC AAA288-E09
+Bacillus sp. MB68
+Henneguya sinova
+Limax sp. USCM5699
+Ectothiorhodospira sp. Edb1.1
+Ichneumonidae sp. BOLD:AAH1874
+Sirococcus conigenus
+Parosca
+Diodora dorsata
+Ruminococcaceae bacterium UBA5290
+Heterosignum
+Cameraria pongamiae
+unclassified Rhoicosigma
+Ochetostethus opacus
+Influenza A virus (A/India/K1213850/2012(H1N1))
+Rhizobium sp. AMF3760
+Sapovirus Hu/CMH284/01/2001/THA
+Influenza A virus (A/green winged teal/Ohio/464069/2006(H5N2))
+Xylopia parviflora
+Heliodoxa imperatrix
+Candida sp. MAW1
+Pseudomonas sp. RU-47
+Cecidomyiidae sp. BIOUG31915-D04
+Cyanophage S-RIM94
+Trachelipus sp. BIOUG20664-B07
+Solenopsis wasmanni transformis
+Influenza A virus (A/Taiwan/799/2006(H3N2))
+Micromonospora sp. 19
+Puperita
+Lessingianthus barrosoanus
+Chlorogomphus sp. cg16
+Borrelia sp. 6T04-2
+Thermosediminibacteraceae
+Terrahaemophilus aromaticivorans
+Eulophidae sp. BIOUG05424-C01
+Microbacterium sp. CI65
+Pyrenochaeta sp. shylm24
+Kadsura polysperma
+Acinetobacter sp. G6Ba-47
+Erythrobacteraceae bacterium Pbc-abPcs4b
+Salmonella enterica subsp. enterica serovar Landau
+Claoxylon hainanense
+Tomopterna krugerensis
+Amycolatopsis sp. La24
+Marocolana
+Trichomycterus illuvies
+Apanteles sp. BIOUG24493-C10
+Haplochromis sp. 63
+Influenza A virus (A/Myanmar/M280/2009(H1N1))
+Candidatus Cytomitobacter primus
+Heleomyzinae sp. JSDIP275-10
+Scolanthus shrimp
+Lepidoptera sp. BOLD:AAD1124
+Plectostylus sp. Contulmo_188
+Diptera sp. BOLD:AAN9048
+Norovirus Hu/GII.3/Nsk-s891/2006/RUS
+Clostridioides difficile DA00165
+Peltospiridae sp. Ga02
+Sciaridae sp. SK-2016J
+Cunninghamella regularis
+Sinorhizobium sp. CCBAU 05637
+Anomis planalis
+Corynoptera sp. BIOUG31809-D10
+Sphingomonas sp. Fek09
+Lepanthes electilis
+alpha proteobacterium SCGC AAA208-A11
+Nomada crotchii
+Bradysia sp. BIOUG26444-E07
+Diptera sp. BOLD:AAG4547
+Hermeuptychia sp. hermes 12 ME-2023a
+Lepidoptera sp. BOLD:AAA3609
+Petroana montana

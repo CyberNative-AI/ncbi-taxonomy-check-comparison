@@ -1,0 +1,150 @@
+environmental samples <crustaceans,unclassified Ostracoda>
+Blomia <mites & ticks>
+environmental samples <basidiomycete fungi,family Filobasidiaceae>
+Rhipicephalus <subgenus>
+environmental samples <eukaryotes,family Tsukubamonadidae>
+environmental samples <euryarchaeotes,genus Halanaeroarchaeum>
+Myurella <gastropods>
+Monotaxis <eudicots>
+Calloria <ascomycete fungi>
+environmental samples <springtails,tribe Neanurini>
+environmental samples <smut fungi & allies,order Entylomatales>
+Bertia <gastropods>
+environmental samples <bacteria,genus Defluviitoga>
+Lebrunia <sea anemones>
+Morelia <eudicots>
+environmental samples <caddisflies,family Limnephilidae>
+environmental samples <firmicutes,genus Desmospora>
+environmental samples <eudicots,family Saxifragaceae>
+environmental samples <firmicutes,genus Marasmitruncus>
+environmental samples <spirochetes,genus Brevinema>
+environmental samples <ray-finned fishes,genus Boops>
+environmental samples <green algae,order Chlorosarcinales>
+Salvadora <snakes>
+Schultesia <eudicots>
+Quadrella <crustaceans>
+environmental samples <high G+C Gram-positive bacteria,genus Arsenicicoccus>
+environmental samples <a-proteobacteria,genus Eilatimonas>
+Chaenostoma <crustaceans>
+environmental samples <basidiomycete fungi,family Meripilaceae>
+environmental samples <basidiomycete fungi,Polyporales incertae sedis>
+Rhodopis <eudicots>
+Lenwebbia <eudicots>
+Adesmia <beetles>
+environmental samples <firmicutes,genus Desemzia>
+environmental samples <scale insects,genus Unaspis>
+environmental samples <high G+C Gram-positive bacteria,genus Nocardioides>
+environmental samples <CFB group bacteria,genus Sphingobacterium>
+Trigonostomum <flatworms>
+Lacrima <ascomycete fungi>
+Helichrysum lanuginosum <Helichrysum lanuginosum>
+environmental samples <CFB group bacteria,genus Bergeyella>
+environmental samples <aquificales,genus Hydrogenothermus>
+environmental samples <segmented worms,genus Dero>
+Keijia <crustaceans>
+Melanogaster <basidiomycete fungi>
+environmental samples <firmicutes,genus Insulibacter>
+environmental samples <green plants,family Desmidiaceae>
+Coxiella <g-proteobacteria>
+environmental samples <euryarchaeotes,clade Marine benthic group (Methanobacteriota)>
+environmental samples <firmicutes,genus Anaerofustis>
+environmental samples <a-proteobacteria,genus Profundibacterium>
+Kelloggia <lice>
+environmental samples <soft corals,subclass Octocorallia>
+environmental samples <firmicutes,genus Mahella>
+environmental samples <true bugs,genus Notonecta>
+environmental samples <actinobacteria,genus Parvivirga>
+Eutreta <subgenus>
+environmental samples <bacteria,family Balneolaceae>
+environmental samples <green algae,family Bryopsidaceae>
+environmental samples <eudicots,family Bignoniaceae>
+environmental samples <archaea,phylum Nitrososphaerota>
+environmental samples <a-proteobacteria,genus Coraliihabitans>
+environmental samples <firmicutes,genus Paenisporosarcina>
+Nicandra <beetles>
+environmental samples <CFB group bacteria,genus Antarcticimonas>
+environmental samples <g-proteobacteria,genus Halochromatium>
+environmental samples <ascomycete fungi,genus Ceratocystiopsis>
+environmental samples <firmicutes,genus Sporosalibacterium>
+environmental samples <diatoms,genus Minutocellus>
+Euryale <flowering plants>
+environmental samples <segmented worms,family Polynoidae>
+environmental samples <even-toed ungulates & whales,family Bovidae>
+environmental samples <ascomycete fungi,genus Pseudomicrodochium>
+environmental samples <diatoms,family Cymatosiraceae>
+environmental samples <firmicutes,genus Filibacter>
+environmental samples <flies,genus Polypedilum>
+Adina <eudicots>
+environmental samples <nematodes,environmental samples,genus Plectus>
+environmental samples <CFB group bacteria,genus Algorimicrobium>
+environmental samples <ciliates,family Metopidae>
+environmental samples <g-proteobacteria,genus Cavicella>
+environmental samples <mycoplasmas,genus Alteracholeplasma>
+environmental samples <a-proteobacteria,genus Jannaschia>
+environmental samples <CFB group bacteria,genus Spirosoma>
+environmental samples <bacteria,genus Rubrivirga>
+environmental samples <high G+C Gram-positive bacteria,genus Mangrovihabitans>
+Diplura <hexapods>
+Corythophora <eudicots>
+environmental samples <actinobacteria,genus Egicoccus>
+Plumbago <eudicots>
+environmental samples <eudicots,order Oxalidales>
+environmental samples <bacteria,family Geopsychrobacteraceae>
+environmental samples <euryarchaeotes,genus Methanococcus>
+Homopholis <monocots>
+environmental samples <birds,class Aves>
+Mytilopsis <bivalves>
+environmental samples <true bugs,family Micronectidae>
+environmental samples <ascomycete fungi,family Glomerellaceae>
+environmental samples <basidiomycete fungi,genus Pseudosperma>
+Triphora <monocots>
+Chondracanthus <red algae>
+environmental samples <eudicots,family Boraginaceae>
+environmental samples <green plants,genus Klebsormidium>
+environmental samples <bacteria,genus Candidatus Moduliflexus>
+environmental samples <enterobacteria,genus Moellerella>
+Solitaria <ascomycete fungi>
+environmental samples <cyanobacteria,genus Rivularia>
+environmental samples <firmicutes,genus Allofournierella>
+environmental samples <liverworts,class Marchantiopsida>
+environmental samples <ciliates,family Tracheliidae>
+environmental samples <g-proteobacteria,genus Chiayiivirga>
+Sclerochiton <eudicots>
+environmental samples <segmented worms,family Phyllodocidae>
+environmental samples <bacteria,order Caldifarciminales>
+environmental samples <a-proteobacteria,genus Falsiruegeria>
+environmental samples <ascomycete fungi,order Arthoniales>
+environmental samples <ascomycete fungi,order Phaeomoniellales>
+environmental samples <basidiomycete fungi,family Paxillaceae>
+environmental samples <b-proteobacteria,genus Vitreoscilla>
+environmental samples <cellular slime molds,family Cavenderiaceae>
+environmental samples <b-proteobacteria,genus Paraherbaspirillum>
+environmental samples <diatoms,genus Entomoneis>
+environmental samples <cyanobacteria,family Xenococcaceae>
+Volutella <gastropods>
+Seuratia <ascomycete fungi>
+environmental samples <a-proteobacteria,genus Pararhizobium>
+Monascus <ascomycete fungi>
+environmental samples <bacteria,clade candidate division GN13>
+environmental samples <firmicutes,genus Exiguobacterium>
+environmental samples <CFB group bacteria,genus Cryomorpha>
+Idiacanthus <ray-finned fishes>
+Chondria <red algae>
+environmental samples <bacteria,genus Edaphobacter>
+Graphium <butterflies>
+environmental samples <ascomycete fungi,Diaporthales incertae sedis>
+environmental samples <apicomplexans,genus Cytauxzoon>
+environmental samples <firmicutes,genus Niallia>
+environmental samples <moths & butterflies,genus Halysidota>
+environmental samples <CFB group bacteria,genus Amniculibacterium>
+environmental samples <ciliates,order Microthoracida>
+environmental samples <g-proteobacteria,genus Spartinivicinus>
+Pseudopontixanthobacter <Pseudopontixanthobacter>
+Lasiurus <monocots>
+environmental samples <eukaryotes,clade Discoba>
+environmental samples <CFB group bacteria,genus Aureivirga>
+environmental samples <high G+C Gram-positive bacteria,genus Agromyces>
+Costarica <grasshoppers, crickets & katydids>
+environmental samples <spirochetes,genus Thiospirochaeta>
+environmental samples <CFB group bacteria,genus Panacibacter>
+environmental samples <flies,genus Limnophyes>
