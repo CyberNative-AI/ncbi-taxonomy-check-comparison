@@ -1,3 +1,5 @@
+<p><a href="https://cybernative.ai/"><img src="https://raw.githubusercontent.com/CyberNative-AI/ncbi-taxonomy-check-comparison/main/assets/cybernative-cn-mark.svg" width="32" height="32" alt="" align="absmiddle"> CyberNative AI LLC</a></p>
+
 # NCBI Taxonomy name/ID check: legacy tool vs Datasets v2 vs E-utilities
 
 Inputs, per-input results and method for a one-time comparison of how three NCBI services resolved the same
